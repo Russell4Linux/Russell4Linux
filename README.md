@@ -1,11 +1,3 @@
-- 👋 Hi, I’m Russell
-- 👀 I’m interested in Web Development and AI
-- 🌱 I’m currently learning SDN, Machine Learning
-- 💞️ I’m looking to collaborate on Javascript, React and SDN Programibility
-- 📫 How to reach me @ Russell4Linux@gmail.com
-
-<!---
-Russell4Linux/Russell4Linux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+Hi, I’m Russell 👋
+- I am a full stack developer and I am currently working on my own freelance projects. My front-end skills are Javascript and React library and my back-end specialties are node.js and express.js
+- I am also a data scientist and I'm currently enhancing my machine mearning skills to finally be able to finish my dissertation, which is about Software Dfined Networks (SDN) and machine learning combined together. I think it's cool
